@@ -3,8 +3,8 @@
 *A unuseful tool to export and import .sql file with MySQL. If it is unuseful, it is essential.*
 1. [Installation](#1-installation)
 	1. [Add MySQL binaries to PATH variable](#11-add-mysql-binaries-to-path-variable)
-		1. [Linux (/bin/sh)](#111-linux(/bin/sh))
-		2. [Mac OS X (/bin/zsh)](#112-mac-os-x-(bin/zsh))
+		1. [Linux (/bin/sh)](#111-linux-binsh)
+		2. [Mac OS X (/bin/zsh)](#112-mac-os-x-binzsh)
 		3. [Windows](#113-windows)
 	2. [Install OM2B SQL](#12-install-om2b-sql)
 2. [Usage](#2-usage)
